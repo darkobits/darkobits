@@ -1,6 +1,14 @@
-<a href="#top" id="top">
-  <img src="https://user-images.githubusercontent.com/441546/101852844-62076000-3b13-11eb-9d58-1a1307c494cf.png" style="max-width: 100%">
-</a>
+<picture>
+	<source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/darkobits/darkobits/assets/441546/4734809f-406c-4e69-a41c-1c786a782650"
+    width="100%"
+  >
+	<img
+    src="https://github.com/darkobits/darkobits/assets/441546/ec304488-0e8c-4c4e-9b0e-5940306a38e6"
+    width="100%"
+  >
+</picture>
 <br>
 <br>
 <p>
@@ -32,9 +40,3 @@ I'm passionate about:
 <a href="https://aws.amazon.com" title="AWS"><img height="32" src="https://user-images.githubusercontent.com/441546/224956186-94975ae6-4875-4e05-971b-2d410b357095.png"></a>
 &nbsp;&nbsp;
 <a href="https://serverless.com" title="Serverless"><img height="32" src="https://user-images.githubusercontent.com/441546/224960421-032cd2f3-b588-4e15-9846-46aa8cc7914b.png"></a>
-
-<p align="center">
-  <a href="#top" id="top">
-    <img src="https://user-images.githubusercontent.com/441546/100376865-1c9c4c00-2fc5-11eb-9f57-d9f482886e12.png">
-  </a>
-</p>
