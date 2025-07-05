@@ -25,18 +25,20 @@ I'm passionate about:
 
 ### Languages & Tools
 
-<a href="https://www.typescriptlang.org" title="TypeScript"><img height="32" src="https://user-images.githubusercontent.com/441546/100373483-b19c4680-2fbf-11eb-8561-b86286ac3206.png"></a>
+<a href="https://www.typescriptlang.org" title="TypeScript"><img width="32" src="https://user-images.githubusercontent.com/441546/100373483-b19c4680-2fbf-11eb-8561-b86286ac3206.png"></a>
 &nbsp;&nbsp;
-<a href="https://javascript.com" title="JavaScript"><img height="32" src="https://user-images.githubusercontent.com/441546/100373476-b06b1980-2fbf-11eb-96a0-5a4a82d2374f.png"></a>
+<a href="https://nodejs.org" title="Node"><img width="32" src="https://user-images.githubusercontent.com/441546/100373479-b06b1980-2fbf-11eb-8400-417e2bc4aa57.png"></a>
 &nbsp;&nbsp;
-<a href="https://nodejs.org" title="Node"><img height="32" src="https://user-images.githubusercontent.com/441546/100373479-b06b1980-2fbf-11eb-8400-417e2bc4aa57.png"></a>
+<a href="https://reactjs.org" title="React"><img width="32" src="https://user-images.githubusercontent.com/441546/100373481-b103b000-2fbf-11eb-9588-0fffd34a7b02.png"></a>
 &nbsp;&nbsp;
-<a href="https://reactjs.org" title="React"><img height="32" src="https://user-images.githubusercontent.com/441546/100373481-b103b000-2fbf-11eb-9588-0fffd34a7b02.png"></a>
+<a href="https://tanstack.com/query/latest" title="TanStack Query"><img width="32" alt="TanStack Query" src="https://github.com/user-attachments/assets/af4f7275-efe4-424a-a01b-4ef0c0100a57" /></a>
 &nbsp;&nbsp;
-<a href="https://vitejs.dev" title="Vite"><img height="32" src="https://user-images.githubusercontent.com/441546/224954838-37d0462b-4891-4ffa-a296-8b79a2bd2684.svg"></a>
+<a href="https://vitejs.dev" title="Vite"><img width="32" src="https://user-images.githubusercontent.com/441546/224954838-37d0462b-4891-4ffa-a296-8b79a2bd2684.svg"></a>
 &nbsp;&nbsp;
-<a href="https://twilio.com" title="Twilio"><img height="32" src="https://user-images.githubusercontent.com/441546/101115387-2232fc80-3598-11eb-9d84-d7d3eb7f5efa.png"></a>
+<a href="https://trpc.io"><img width="32" title="tRPC" src="https://github.com/user-attachments/assets/fb77ad21-5729-470b-9e13-9330f3b90d0e" /></a>
 &nbsp;&nbsp;
-<a href="https://aws.amazon.com" title="AWS"><img height="32" src="https://user-images.githubusercontent.com/441546/224956186-94975ae6-4875-4e05-971b-2d410b357095.png"></a>
+<a href="https://twilio.com" title="Twilio"><img width="32" src="https://user-images.githubusercontent.com/441546/101115387-2232fc80-3598-11eb-9d84-d7d3eb7f5efa.png"></a>
 &nbsp;&nbsp;
-<a href="https://serverless.com" title="Serverless"><img height="32" src="https://user-images.githubusercontent.com/441546/224960421-032cd2f3-b588-4e15-9846-46aa8cc7914b.png"></a>
+<a href="https://aws.amazon.com" title="AWS"><img width="32" src="https://user-images.githubusercontent.com/441546/224956186-94975ae6-4875-4e05-971b-2d410b357095.png"></a>
+&nbsp;&nbsp;
+<a href="https://serverless.com" title="Serverless"><img width="32" src="https://user-images.githubusercontent.com/441546/224960421-032cd2f3-b588-4e15-9846-46aa8cc7914b.png"></a>
